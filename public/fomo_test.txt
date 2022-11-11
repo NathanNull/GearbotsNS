@@ -1,4 +1,4 @@
-NEED TO CHANGE FILE EXT TO .ino
+//FILE EXT MUST BE .ino
 
 #include <ei-Nathan-fomo-1redleft-2whiteright-3notefast_inferencing.h>
 #include "edge-impulse-advanced-v2.h"
